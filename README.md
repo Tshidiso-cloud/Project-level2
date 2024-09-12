@@ -32,3 +32,6 @@ This program is designed for bookstore clerks to manage their book inventory. Th
 Run the main program using Python:
 ```bash
 python databases_capstone.py
+
+## Credits 
+- **Author:** Tshidiso Mosibi
